@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.1](https://github.com/Daemeron/reecord/compare/reecord-v0.2.0...reecord-v0.2.1) (2026-07-05)
+
+
+### Bug Fixes
+
+* fix release workflow chain ([932bb88](https://github.com/Daemeron/reecord/commit/932bb88ad9e690b1686efcdf5b0ecd5d9abc0ca2))
+* fix release workflow chain ([2b19cd3](https://github.com/Daemeron/reecord/commit/2b19cd3ccec585b75c172e17b4b5dae505de7325))
+
 ## [0.2.0](https://github.com/Daemeron/reecord/compare/reecord-v0.1.0...reecord-v0.2.0) (2026-07-05)
 
 
